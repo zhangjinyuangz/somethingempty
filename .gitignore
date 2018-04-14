@@ -1,0 +1,5 @@
+.idea
+.settings
+target
+src/main/webapp/skin/default/images
+src/main/webapp/ufiles
